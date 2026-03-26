@@ -6,7 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://smart-hostel-management-system-wine.vercel.app")
 @RestController
 public class Controller {
 
